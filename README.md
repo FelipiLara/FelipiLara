@@ -8,7 +8,7 @@
 
 ![Felipi GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipiLara&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipiLara&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipiLara&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
